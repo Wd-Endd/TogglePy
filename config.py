@@ -6,7 +6,7 @@ class Config:
         "\ninactive-opacity = 1",
     ]
     on_state = [
-        "\nactive-opacity = 0.925",
-        "\ninactive-opacity = 0.925",
+        "\nactive-opacity = 0.95",
+        "\ninactive-opacity = 0.9",
     ]
     file_target = Path.home() / ".config" / "picom" / "picom.conf"
